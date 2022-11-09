@@ -3,7 +3,7 @@
 
 - 🎓 Sou estudante de ciência da computação - Estácio de Sá.
 - 🎓 Possuo certificado em react.js - Udemy.
-- 🎓 Sou estudante de desenvolvimento web full stack - Growdev (Atualmente estamos estudando HTML).
+- 🎓 Sou estudante de desenvolvimento web full stack - Growdev.
 - ⚡ Meu hobby favorito é andar a cavalo e assistir o jogo de futebol do meu time Vitória.
 
 
