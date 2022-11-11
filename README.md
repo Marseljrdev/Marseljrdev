@@ -1,13 +1,13 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do Github. Meu nome é Marsel Brandão Junior
 
 
-- 🎓 Sou estudante de ciência da computação - Estácio de Sá.
-- 🎓 Possuo certificado em react.js - Udemy.
-- 🎓 Sou estudante de desenvolvimento web full stack - Growdev.
-- ⚡ Meu hobby favorito é andar a cavalo e assistir o jogo de futebol do meu time Vitória.
+- 🎓 I am a computer science student - Estácio de Sá.
+- 🎓 I have a certificate in react.js - Udemy.
+- 🎓 I'm a full stack web development student - Growdev.
+- ⚡ My favorite hobby is horseback riding and watching my team Vitória soccer game.
 
 
-## Tecnologias:
+## technologies:
   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" /> 
  
@@ -22,7 +22,7 @@
           
 
 
-## Estatísticas do Github:
+## Github Stats:
 
 <div>
 <a href="https://github.com/Marseljrdev">
@@ -31,7 +31,7 @@
 </div>
 
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href = "mailto:marseljrdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
