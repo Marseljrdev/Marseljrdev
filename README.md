@@ -1,4 +1,4 @@
-## 👋 Olá! Bem-vindo ao meu perfil do Github. Meu nome é Marsel Brandão Junior
+## 👋 Hi! Welcome to my Github profile. My name is Marsel Brandão Junior
 
 
 - 🎓 I am a computer science student - Estácio de Sá.
