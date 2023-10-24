@@ -3,7 +3,7 @@
 
 - 🎓 I am a computer science student - Estácio de Sá.
 - 🎓 I have a certificate in react.js - Udemy.
-- 🎓 I'm a full stack web development student - Growdev.
+- 🎓 I'm a full stack web development - Growdev.
 - ⚡ My favorite hobby is horseback riding and watching my team Vitória soccer game.
 
 
